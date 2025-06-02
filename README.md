@@ -148,3 +148,18 @@ Utilizes:
 - [DepthPro](https://github.com/apple/ml-depth-pro)  
 - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)  
 - [FastReID](https://github.com/JDAI-CV/fast-reid)  
+
+---
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@inproceedings{khanchi2025self,
+  title={Fast Self-Supervised depth and mask aware Association for Multi-Object Tracking},
+  author={Khanchi, Milad and Amer, Maria and Poullis, Charalambos},
+  booktitle={Proceedings of the British Machine Vision Conference (BMVC)},
+  year={2025},
+  note={Under review}
+}
